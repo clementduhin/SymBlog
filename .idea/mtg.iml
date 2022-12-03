@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/mtg/vendor/symfony/webpack-encore-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/mtg/vendor/cocur/slugify" />
+      <excludeFolder url="file://$MODULE_DIR$/mtg/vendor/vich/uploader-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/mtg/vendor/jms/metadata" />
+      <excludeFolder url="file://$MODULE_DIR$/mtg/vendor/doctrine/data-fixtures" />
+      <excludeFolder url="file://$MODULE_DIR$/mtg/vendor/doctrine/doctrine-fixtures-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/mtg/vendor/fakerphp/faker" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
